@@ -5,7 +5,7 @@ Static C++ library for creating multi-platform window for OpenGL development. Al
 > :warning: **Not to be used in production!**
 <p align="center">
     <br>
-    <img src="img.PNG" width="500" >
+    <img src="img.png" width="500" >
 </p>
 
 ## Structure
