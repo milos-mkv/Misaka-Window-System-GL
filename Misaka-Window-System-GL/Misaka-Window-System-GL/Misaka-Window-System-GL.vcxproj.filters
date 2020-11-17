@@ -18,6 +18,12 @@
     <ClInclude Include="src\MisakaWindowSystemGL.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\MisakaTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\MisakaKeys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\MisakaWindowSystemGL.cpp">
